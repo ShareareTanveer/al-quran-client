@@ -6,8 +6,8 @@ const roboto = Roboto({ subsets: [], weight: "400" });
 // const inter = Inter({ subsets: [], weight: "400" });
 
 export const metadata: Metadata = {
-  title: "softloan",
-  description: "softloan",
+  title: "Al Quran App",
+  description: "Al Quran App",
 };
 
 export default async function RootLayout({
